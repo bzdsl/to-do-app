@@ -22,19 +22,11 @@ A simple and customizable ToDo app built with **React Native** that allows users
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - [React Native](https://reactnative.dev/)
 - [React Navigation (optional)](https://reactnavigation.org/)
 - [AsyncStorage](https://react-native-async-storage.github.io/async-storage/) (for local persistence)
 - [Context API](https://reactjs.org/docs/context.html) or state management (if applicable)
-
----
-
-## 🌍 Localization
-
-This app supports multiple languages. You can switch the language using the language selector in the settings.
-
-_Add your available languages here, e.g., English, Vietnamese, etc._
 
 ---
